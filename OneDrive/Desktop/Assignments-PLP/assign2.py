@@ -1,3 +1,5 @@
+#define the variables
+
 def calculate_discount(price, discount_percent):
     # Check if the discount is 20% or higher
     if discount_percent >= 20:
